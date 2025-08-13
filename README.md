@@ -2,7 +2,7 @@
 
 ## $\Large\sf\textcolor{red}{Ｒ}\textcolor{green}{Ｇ}\textcolor{blue}{Ｂ}Ａ$
 
-$\Large\textcolor{blue}{\int_{\textcolor{red}{-\infty}}^{ \textcolor{red}{\infty}}}\textcolor{magenta}{e^{-x^2}}\textcolor{purple}{dx}=\textcolor{green}{\sqrt{\pi}} \quad \Large\sum_{\textcolor{red}{n}=1}^{\infty}\frac{1}{\textcolor{red}{n}^2} =\frac{\pi^2}{6}$
+$\displaystyle \Large\textcolor{blue}{\int_{\textcolor{red}{-\infty}}^{ \textcolor{red}{\infty}}}\textcolor{magenta}{e^{-x^2}}\textcolor{purple}{dx}=\textcolor{green}{\sqrt{\pi}} \quad \Large\sum_{\textcolor{red}{n}=1}^{\infty}\frac{1}{\textcolor{red}{n}^2} =\frac{\pi^2}{6}$
 
 ## $\Large\sf汁$
 
@@ -25,7 +25,7 @@ $\large\sf墨汁$[*mo4*]()*zhi1*　ink.
 $\large\sf乳汁$[*ru3*]()*zhi1*　奶水[*nai3*]()*shui3*．　milk.
 
 
-## $\Large\sf废$　　$\Large\sf廢$
+## $\Large\sf废$　 $\Large\sf廢$
 
 $\large\sf废弃$ fei4[qi4]() 　throw away. abandon.   
 >$\large\sf廢棄$　<span lang=ja><ruby>捨<rt>$\Large\sfす$</rt>てる．</ruby><ruby lang=ja> 廃棄 <rt>$\Large\sfはいき$</rt>する．</ruby><ruby lang=ja>棄<rt>$\Large\sfす$</rt>てる．</ruby>
@@ -42,4 +42,9 @@ $\large\sf\color{red}汁\color{blue}液$*zhi1*[*ye4*]()　juice.　汁儿*zhi1r*
 
 $\large\sf\color{green}果\color{red}汁$[*guo3*]()*zhi1*　(fruit) juice.
 >水果*shui3*[*guo3*]()　汁液*zhi1*[*ye4*]()．
+
+## $\Large\sf流$
+
+$\large\sf 流利$　liu2li4　fluent. (speak fluently)   
+>流动[*liu2*]()*dong4*　顺利*shun4*[*li4*]()
 
