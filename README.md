@@ -1,5 +1,9 @@
 <span lang=zh>
 
+## $\Large\sf\textcolor{red}{Ｒ}\textcolor{green}{Ｇ}\textcolor{blue}{Ｂ}Ａ$
+
+$\Large\textcolor{blue}{\int_{\textcolor{red}{-\infty}}^{ \textcolor{red}{\infty}}}\textcolor{magenta}{e^{-x^2}}\textcolor{purple}{dx}=\textcolor{green}{\sqrt{\pi}} \quad \Large\sum_{\textcolor{red}{n}=1}^{\infty}\frac{1}{\textcolor{red}{n}^2} =\frac{\pi^2}{6}$
+
 ## $\Large\sf汁$
 
 $\large\sf汁液$*zhi1*[*ye4*]()　juice.　汁儿*zhi1r*．
