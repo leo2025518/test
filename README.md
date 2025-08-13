@@ -51,8 +51,6 @@ $\large\sf胆汁$[*dan3*]()*zhi1*　bile.
 $\large\sf橙汁$[*cheng2*]()*zhi1*　orange juice.
 >橙子[*cheng2*]()*zi3* 　果汁*guo3*[*zhi1*]()．
 
-<ruby>2025-813-0501 [caturday](https://archive.4plebs.org/pol/thread/512923831/#q512924072)<rt><img src=https://i.4pcdn.org/pol/1755060244683436.jpg width=200></rt></ruby> 
-
 $\large\sf墨汁$[*mo4*]()*zhi1*　ink.
 >墨锭[*mo4*]()*ding4* 　汁液*zhi1*[*ye4*]()．
 
@@ -80,6 +78,6 @@ $\large\sf\color{red}汁\color{blue}液$*zhi1*[*ye4*]()　juice.　汁儿*zhi1r*
 $\large\sf\color{green}果\color{red}汁$[*guo3*]()*zhi1*　(fruit) juice.
 >水果*shui3*[*guo3*]()　汁液*zhi1*[*ye4*]()．
 
-
+<ruby>2025-813-0501 [caturday](https://archive.4plebs.org/pol/thread/512923831/#q512924072)<rt><img src=https://i.4pcdn.org/pol/1755060244683436.jpg width=200></rt></ruby> 
 
 
