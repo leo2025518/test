@@ -2,7 +2,7 @@
 
 <span lang=zh>
 
-[<img title=caturday--2025-0813-0518 src="https://i.4pcdn.org/pol/1755060244683436.jpg?meta=caturday--2025-0813-0518" width=200 align=left>](https://archive.4plebs.org/pol/thread/512923831/?meta=caturday--2025-0813-0518#q512924072)
+[<img title="caturday 2025-0813-0518" src="https://i.4pcdn.org/pol/1755060244683436.jpg?meta=caturday_2025-0813-0518" width=200 align=left>](https://archive.4plebs.org/pol/thread/512923831/?meta=caturday_2025-0813-0518#q512924072)
 
 ## $\Large\sf\textcolor{red}{Ｒ}\textcolor{green}{Ｇ}\textcolor{blue}{Ｂ}Ａ$
 
