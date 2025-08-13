@@ -29,13 +29,15 @@ $\large\sf胆汁$[*dan3*]()*zhi1*　bile.
 $\large\sf橙汁$[*cheng2*]()*zhi1*　orange juice.
 >橙子[*cheng2*]()*zi3* 　果汁*guo3*[*zhi1*]()．
 
+<ruby>2025-813-0501 [caturday](https://archive.4plebs.org/pol/thread/512923831/#q512924072)<rt><img src=https://i.4pcdn.org/pol/1755060244683436.jpg width=200></rt></ruby> 
+
 $\large\sf墨汁$[*mo4*]()*zhi1*　ink.
 >墨锭[*mo4*]()*ding4* 　汁液*zhi1*[*ye4*]()．
 
 
 $\large\sf乳汁$[*ru3*]()*zhi1*　奶水[*nai3*]()*shui3*．　milk.
 
-<ruby>2025-813-0501 [caturday](https://archive.4plebs.org/pol/thread/512923831/#q512924072)<rt><img src=https://i.4pcdn.org/pol/1755060244683436.jpg width=200></rt></ruby> 
+
 
 
 ## $\Large\sf废$　 $\Large\sf廢$
