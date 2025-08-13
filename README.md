@@ -1,5 +1,6 @@
-<span lang=zh>
+# $\Large TEST$
 
+<span lang=zh>
 
 [<img title=caturday--2025-0813-0518 src="https://i.4pcdn.org/pol/1755060244683436.jpg?meta=caturday--2025-0813-0518" width=200 align=left>](https://archive.4plebs.org/pol/thread/512923831/?meta=caturday--2025-0813-0518#q512924072)
 
@@ -16,6 +17,25 @@ $\Large😺:3$
 
 $\large\sf 流利$　liu2li4　fluent. (speak fluently)   
 >流动[*liu2*]()*dong4*　顺利*shun4*[*li4*]()
+
+<hr>
+
+https://gist.github.com/anxkhn/9ae7b2248999168b73f303dec5851460  
+Enabling VS Code Marketplace in VSCodium
+
+
+Add to  `%APPDATA%\VSCodium\product.json`:
+```
+{
+  "extensionsGallery": {
+    "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+    "itemUrl": "https://marketplace.visualstudio.com/items",
+    "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
+    "controlUrl": ""
+  }
+}
+```
+
 
 ## $\Large\sf汁$
 
