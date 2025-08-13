@@ -8,7 +8,7 @@
 $\Large\textcolor{blue}{\int_{\textcolor{red}{-\infty}}^{ \textcolor{red}{\infty}}}\textcolor{magenta}{e^{-x^2}}\textcolor{purple}{dx}=\textcolor{green}{\sqrt{\pi}} \quad 
 \Large\sum_{\textcolor{red}{n}=1}^{\infty}\frac{1}{\textcolor{red}{n}^2} =\frac{\pi^2}{6}$ 
 
-😺:3
+$\Large😺:3$
 
 <br clear=all>
 
