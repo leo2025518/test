@@ -8,12 +8,14 @@
 $\Large\textcolor{blue}{\int_{\textcolor{red}{-\infty}}^{ \textcolor{red}{\infty}}}\textcolor{magenta}{e^{-x^2}}\textcolor{purple}{dx}=\textcolor{green}{\sqrt{\pi}} \quad 
 \Large\sum_{\textcolor{red}{n}=1}^{\infty}\frac{1}{\textcolor{red}{n}^2} =\frac{\pi^2}{6}$ 
 
+😺:3
+
+<br clear=all>
+
 ## $\Large\sf流$
 
 $\large\sf 流利$　liu2li4　fluent. (speak fluently)   
 >流动[*liu2*]()*dong4*　顺利*shun4*[*li4*]()
-
-<br clear=all>
 
 ## $\Large\sf汁$
 
