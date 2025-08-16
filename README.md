@@ -7,17 +7,17 @@
 
 
 
-🚩 $\large\sf旗帜$ *qi2[zhi4]()*　**flag**．*banner*．
+$\large\sf旗帜$ *qi2[zhi4]()*　**flag**．*banner*．
 >旗子 *qi2[zi3]()*．　†徽帜 *hui1[zhi4]()*． 
 
-🚩 $\large\sf 红旗$ *[hong2]()qi2*　**red flag**.  
+$\large\sf 红旗$ *[hong2]()qi2*　**red flag**.  
 > 紅色 *[hong2]()se4*　旗帜 *qi2[zhi4]()*．   
 
-🚢 $\large\sf旗舰$ *qi2[jian4]()*　**flagship**.   
+$\large\sf旗舰$ *qi2[jian4]()*　**flagship**.   
 > 指挥*zhi3[hui1]()*　军舰 *jun1[jian4]()*． 
 
-🎌 $\large\sf国旗$ *[guo2]()qi2*　national **flag**.      
+$\large\sf国旗$ *[guo2]()qi2*　national **flag**.      
 > 国家 *[guo2]()jia1*　旗帜 *qi2[zhi4]()*． 
 
-🎭 $\large\sf假旗$ *[jia3]()qi2*　false **flag**.      
+$\large\sf假旗$ *[jia3]()qi2*　false **flag**.      
 > 虚假 *xu1[jia3]()*　旗帜 *qi2[zhi4]()*． 
