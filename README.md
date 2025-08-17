@@ -9,7 +9,7 @@
 > ≧国度guo2[du4]()　＜家族[jia1]()zu2
 
 中国[zhong1]()guo2　**China**.   
->≦中华zhong1hua2　＜国家[guo2]()jia1
+>≦中华[zhong1]()hua2　＜国家[guo2]()jia1
 
 美国[mei3]()guo2　**America**.   
 >＜美洲[mei3]()zhou1　＜国家[guo2]()jia1
