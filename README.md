@@ -5,27 +5,27 @@
 ## $\Large\sf 国$ guo2　 $\Large國$
 >🧱囗[wei2]()　🔉或[huo4]()　🔈玉[yu4]()
 
-国家guo2[jia1]()　**[nation](https://en.wikipedia.org/wiki/Nation)**.
+国家guo2[jia1]()　　　**[nation](https://en.wikipedia.org/wiki/Nation)**.
 > ≧国度guo2[du4]()　＜家族[jia1]()zu2
 
-中国[zhong1]()guo2　**[China](https://en.wikipedia.org/wiki/China)**.
+中国[zhong1]()guo2　　　**[China](https://en.wikipedia.org/wiki/China)**.
 >≦中华[zhong1]()hua2　＜国家[guo2]()jia1
 
-美国[mei3]()guo2　**[America](https://en.wikipedia.org/wiki/United_States)**.
+美国[mei3]()guo2　　　**[America](https://en.wikipedia.org/wiki/United_States)**.
 >＜美洲[mei3]()zhou1　＜国家[guo2]()jia1
 
-国际guo2[ji4]()　**[international](https://en.wikipedia.org/wiki/Internationality)**.
+国际guo2[ji4]()　　　**[international](https://en.wikipedia.org/wiki/Internationality)**.
 >＜各国ge4[guo2]()　＜交际jiao1[ji4]()
 
-全国[quan2]()guo2　whole [nation](https://en.wikipedia.org/wiki/Nation). nationwide.
+全国[quan2]()guo2　　　whole [nation](https://en.wikipedia.org/wiki/Nation). nationwide.
 
 >＜全体[quan2]()ti3　＜国家[guo2]()jia1
 
-爱国[ai4]()guo2　patriotic. [patriotism](https://en.wikipedia.org/wiki/Patriotism).
+爱国[ai4]()guo2　　　patriotic. [patriotism](https://en.wikipedia.org/wiki/Patriotism).
 
 >＜热爱re4[ai4]()　＜祖国zu3[guo2]()
 
-祖国[zu3]()guo2　[fatherland](https://en.wikipedia.org/wiki/Homeland#Fatherland)
+祖国[zu3]()guo2　　　[fatherland](https://en.wikipedia.org/wiki/Homeland#Fatherland)
 >＜祖籍[zu3]()zi2　＜国家[guo2]()jia1
 
 
