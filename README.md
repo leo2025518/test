@@ -14,10 +14,10 @@
 美国[mei3]()guo2　**America**.   
 >＜美洲[mei3]()zhou1　＜国家[guo2]()jia1
 
-国际guo2*[ji4]()　**international**.  
+国际guo2[ji4]()　**international**.  
 >＜各国ge4[guo2]()　＜交际jiao1[ji4]()
 
-🗾 全国[quan2]()guo2　whole nation. nationwide.
+全国[quan2]()guo2　whole nation. nationwide.
 
 >＜全体[quan2]()ti3　＜国家[guo2]()jia1
 
