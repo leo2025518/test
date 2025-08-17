@@ -3,15 +3,23 @@
 
 
 ## $\Large\sf 国$ guo2　 $\Large國$
-囗🧱[wei2]()　或[huo4]()　玉[yu4]()
+>🧱囗[wei2]()　🔉或[huo4]()　🔈玉[yu4]()
 
-🗾 国家 *guo2*[*jia1*]()　**nation**.   
+国家guo2[jia1]()　**nation**.   
+> ≧国度guo2[du4]()　＜家族[jia1]()zu2
 
-🀄 中国 [*zhong1*]()*guo2*　**China**.   
-🗽 美国 [*mei3*]()*guo2*　**America**.   
-💱 国际 *guo2*[*ji4*]()　**international**.  
+中国[zhong1]()guo2　**China**.   
+>≦中华zhong1hua2　＜国家[guo2]()jia1
 
-🗾 全国 [*quan2*]()*guo2*　whole nation. nationwide.
+美国[mei3]()guo2　**America**.   
+>＜美洲[mei3]()zhou1　＜国家[guo2]()jia1
+
+国际guo2*[ji4]()　**international**.  
+>＜各国ge4[guo2]()　＜交际jiao1[ji4]()
+
+🗾 全国[quan2]()guo2　whole nation. nationwide.
+
+>＜全体[quan2]()ti3　＜国家[guo2]()jia1
 
 <br><br><br>
 
