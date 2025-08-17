@@ -21,6 +21,12 @@
 
 >＜全体[quan2]()ti3　＜国家[guo2]()jia1
 
+爱国[ai4]()guo2　patriotic. patriotism. 
+
+>＜热爱re4[ai4]()　＜祖国zu3[guo2]()
+
+
+
 <br><br><br>
 
 
