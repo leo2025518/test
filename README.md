@@ -1,7 +1,6 @@
 <span lang=zh>
 
-圈子quan1zi3　circle.   
->①圈儿$`^\textsf{quan1}_\textsf{r}`$．圆形$`^\textsf{yuan2}_\textsf{xing2}`$．②範圍$`^\textsf{fan4}_\textsf{wei2}`$．
+圈子quan1zi3　circle.　　　①圈儿$`^\textsf{quan1}_\textsf{r}`$．圆形$`^\textsf{yuan2}_\textsf{xing2}`$．②範圍$`^\textsf{fan4}_\textsf{wei2}`$．
 
 
 ## $\Large\sf 国$ guo2　 $\Large國$
