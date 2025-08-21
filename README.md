@@ -1,10 +1,12 @@
 <span lang=zh>
 
-$`\Large圈`$ quan1 $`\Large圏`$ 　 $`\large囗`$[wei2]()$`\large卷`$[juan4]() 
+## $`\Large圈`$ quan1 $`\Large圏`$ 　 $`囗`$[wei2]()$`卷`$[juan4]() 
 
 $`\large圈子`$quan1[zi3]()　circle.
->圈儿$`^\textsf{quan1}_\textsf{r}`$．圆形$`^\textsf{yuan2}_\textsf{xing2}`$．（範圍$`^\textsf{fan4}_\textsf{wei2}`$）
+>圈儿$`^\textsf{quan1}_\textsf{r}`$．圆形$`^\textsf{yuan2}_\textsf{xing2}`$．＊範圍$`^\textsf{fan4}_\textsf{wei2}`$
 
+
+<!--
 
 ## $\Large\sf 国$ guo2　 $\Large國$
 >🧱囗[wei2]()　🔉或[huo4]()　🔈玉[yu4]()
@@ -65,4 +67,8 @@ $\large\sf国旗$ *[guo2]()qi2*　national **flag**.
 > 国家 *[guo2]()jia1*　旗帜 *qi2[zhi4]()*． 
 
 $\large\sf假旗$ *[jia3]()qi2*　false **flag**.      
-> 虚假 *xu1[jia3]()*　旗帜 *qi2[zhi4]()*． 
+> 虚假 *xu1[jia3]()*　旗帜 *qi2[zhi4]()*．
+>
+
+
+-->
