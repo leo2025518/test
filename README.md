@@ -1,4 +1,4 @@
-`2025-08-23 T0633Z` `2025-08-23 T0640Z`   
+`2025-08-23 T0633Z` `2025-08-23 T0728Z`   
 
 <table align=left><td>
 
@@ -11,7 +11,7 @@
 
 Markdown [$`\LaTeX`$&NoBreak;](https://katex.org/docs/supported.html) typesetting test:
 
-$`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega.} \qquad (øωø) \quad:3 `$
+$`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega.} \quad (øωø) `$
 
 <!--$$\tag*{ (øωø) :3} \begin{equation} {\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega \,.} \end{equation}$$-->
 
