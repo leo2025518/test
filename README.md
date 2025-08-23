@@ -30,7 +30,7 @@ To check later: **[svg](https://duckduckgo.com/?q=animated+svg&ia=web)** animati
 For example: [@svgator](https://www.svgator.com/blog/cool-svg-animation-examples-to-inspire/#simple-svg-animation-examples)
 
 
-`2025-08-23 T0723Z`   
+`2025-08-23 T0723Z` `2025-08-23 T0740Z`    
 WinSys issue: Getting Original Windows [Emoji Font](https://github.com/jjjuk/emoji-win?tab=readme-ov-file#-getting-original-windows-emoji-font-optional) from [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) ISO.
 <!--[Restore Default Fonts](https://woshub.com/how-to-restore-default-fonts-in-windows-8-1/
 )-->
