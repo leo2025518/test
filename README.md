@@ -4,7 +4,7 @@
 
 <img width=120 src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SacredHeartBatoni.jpg/500px-SacredHeartBatoni.jpg>   
 
-[SacredHeart](https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_(Batoni))
+[Sacred Heart](https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_(Batoni))
 
 </td></table>
 
