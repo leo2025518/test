@@ -31,7 +31,3 @@ $`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega
 `2025-08-23 T0633Z` `2025-08-23 T0634Z`    
 Check later: **[svg](https://duckduckgo.com/?q=animated+svg&ia=web)** animation.   
 For example: [@svgator](https://www.svgator.com/blog/cool-svg-animation-examples-to-inspire/#simple-svg-animation-examples)
-
-`2025-08-23 T0711Z` `2025-08-23 T0727Z`    
-Win11 Sys issue: [Restore Default Fonts](https://woshub.com/how-to-restore-default-fonts-in-windows-8-1/
-)
