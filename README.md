@@ -25,13 +25,13 @@ $`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega
 <br clear=all>
 
 
-<img src=https://i.ytimg.com/vi/7snVVx5RmM8/hqdefault.jpg height=100 align=left> [!yt@AIShifu](https://www.youtube.com/watch?v=7snVVx5RmM8&list=UUiC5f73gnG-kWuI9WR-YGUw&index=1)  
+<img src=https://i.ytimg.com/vi/7snVVx5RmM8/hqdefault.jpg height=100 align=left> [!yt @AIShifu](https://www.youtube.com/watch?v=7snVVx5RmM8&list=UUiC5f73gnG-kWuI9WR-YGUw&index=1)  
 `2025-08-23 T0900Z`  
  Anime characters brought to Real Life by AI
 <br clear=all>
 
 
-<img src=https://i.ytimg.com/vi/uXciYRNYwKI/hqdefault.jpg height=100 align=left> [!yt@AnimeKIFusion](https://www.youtube.com/watch?v=uXciYRNYwKI&list=UULFkGmrLRbXTDMnDKttMhG9mg&index=1)   
+<img src=https://i.ytimg.com/vi/uXciYRNYwKI/hqdefault.jpg height=100 align=left> [!yt @AnimeKIFusion](https://www.youtube.com/watch?v=uXciYRNYwKI&list=UULFkGmrLRbXTDMnDKttMhG9mg&index=1)   
 `2025-08-23 T0850Z`  
 AI realistic Digimon
 <br clear=all>
