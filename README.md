@@ -1,3 +1,24 @@
+`2025-08-24 T0811Z` `2025-08-23 T1100Z`   
+
+Custom [`product.json`](https://github.com/OliverKeefe/vscode-extensions-in-vscodium?tab=readme-ov-file#howto-vscode-marketplace) for [VSCode ](https://marketplace.visualstudio.com/VSCode) plugins on [VSCodium](https://vscodium.com/).
+
+[<img src=https://i.4pcdn.org/pol/1756038322592773s.jpg hspace=15 height=180 align=right>](https://4plebs.org/pol/thread/513861368 "Is travel good for you?")
+
+[<img height=100 align=left hspace=15 src=https://i.ytimg.com/vi/suAkMeWJ1yE/hqdefault.jpg>](https://www.youtube.com/watch?v=suAkMeWJ1yE&list=UULPs5Y5_7XK8HLDX0SLNwkd3w "Getting started with Jupyter notebooks in VSCode")
+
+
+VSCode [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).  
+
+　[Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) Python.  
+
+　[Anaconda Nav](https://www.anaconda.com/docs/tools/anaconda-navigator/install) GUI.
+
+Typesetting via [Github](https://gist.github.com/jonschlinkert/5854601) style [Markdown](https://daringfireball.net/projects/markdown/syntax)
+
++[$`\LaTeX`$&NoBreak;](https://katex.org/docs/supported.html) ``$` `$`` +[old](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements) & new [HTML](https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html).
+
+<br clear=0>
+
 `2025-08-23 T0633Z` `2025-08-23 T0728Z`   
 
 <table align=left><td>
@@ -25,14 +46,20 @@ $`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega
 <br clear=all>
 
 
+`2025-08-24 T1031Z` `2025-08-23 T1100Z` 
+
+[<img height=120 src="https://external-preview.redd.it/one-rock-at-a-time-v0-enUybTAweWl4eWtmMRSIXRQ_2QFwKRBPWbFjJY1LZmhbJ9hIdZOKhEC00-Mi.png?format=pjpg&auto=webp&s=52d6c5b8dceb9bd166eaa53d4b54cbff71073e20">](https://redlib.catsarch.com/r/oddlysatisfying/comments/1myvfw6/one_rock_at_a_time/)
+[<img height=120 src=https://rl.bloat.cat/img/vfivkz8s69df1.jpeg>](https://redlib.catsarch.com/r/femboymemes/comments/1mi2yop/3/)
+[<img height=120 src=https://rl.bloat.cat/img/a3v4xz1wcd8b1.jpg>](https://redlib.catsarch.com/r/femboymemes/comments/14ji7t6/he_motivates_me_working_out_again_c/)
+[<img height=120 src=https://i.4pcdn.org/pol/1754412145175238.jpg>](https://www.librarything.com/topic/371054)
+
+`2025-08-23 T0900Z`   
 <img src=https://i.ytimg.com/vi/7snVVx5RmM8/hqdefault.jpg height=100 align=left> [!yt @AIShifu](https://www.youtube.com/watch?v=7snVVx5RmM8&list=UUiC5f73gnG-kWuI9WR-YGUw&index=1)  
-`2025-08-23 T0900Z`  
  Anime characters brought to Real Life by AI
 <br clear=all>
 
-
-<img src=https://i.ytimg.com/vi/uXciYRNYwKI/hqdefault.jpg height=100 align=left> [!yt @AnimeKIFusion](https://www.youtube.com/watch?v=uXciYRNYwKI&list=UULFkGmrLRbXTDMnDKttMhG9mg&index=1)   
 `2025-08-23 T0850Z`  
+<img src=https://i.ytimg.com/vi/uXciYRNYwKI/hqdefault.jpg height=100 align=left> [!yt @AnimeKIFusion](https://www.youtube.com/watch?v=uXciYRNYwKI&list=UULFkGmrLRbXTDMnDKttMhG9mg&index=1)   
 AI realistic Digimon
 <br clear=all>
 
