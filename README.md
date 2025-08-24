@@ -1,11 +1,11 @@
-`2025-08-24 T1031Z` `2025-08-23 T1115Z` 
+`2025-08-24 T16-31Z` `2025-08-23 T17-15Z` 
 
 [<img height=120 src="https://external-preview.redd.it/one-rock-at-a-time-v0-enUybTAweWl4eWtmMRSIXRQ_2QFwKRBPWbFjJY1LZmhbJ9hIdZOKhEC00-Mi.png?format=pjpg&auto=webp&s=52d6c5b8dceb9bd166eaa53d4b54cbff71073e20">](https://redlib.catsarch.com/r/oddlysatisfying/comments/1myvfw6/one_rock_at_a_time/)
 [<img height=120 src=https://redlib.perennialte.ch/img/vfivkz8s69df1.jpeg>](https://redlib.catsarch.com/r/femboymemes/comments/1mi2yop/3/)
 [<img height=120 src=https://redlib.perennialte.ch/img/a3v4xz1wcd8b1.jpg>](https://redlib.catsarch.com/r/femboymemes/comments/14ji7t6/he_motivates_me_working_out_again_c/)
 [<img height=120 src=https://i.4pcdn.org/pol/1754412145175238.jpg>](https://www.librarything.com/topic/371054)
 
-`2025-08-24 T0811Z` `2025-08-23 T1100Z`   
+`2025-08-24 T14-11Z` `2025-08-23 T17-00Z`   
 
 Custom [`product.json`](https://github.com/OliverKeefe/vscode-extensions-in-vscodium?tab=readme-ov-file#howto-vscode-marketplace) for [VSCode ](https://marketplace.visualstudio.com/VSCode) plugins on [VSCodium](https://vscodium.com/).
 
@@ -26,7 +26,7 @@ Typesetting via [Github](https://gist.github.com/jonschlinkert/5854601) style [M
 
 <br clear=0>
 
-`2025-08-23 T0633Z` `2025-08-23 T0728Z`   
+`2025-08-23 T12-33Z` `2025-08-23 T13-28Z`   
 
 <table align=left><td>
 
@@ -53,22 +53,22 @@ $`{\Large \displaystyle \int _{\partial \Omega }\omega =\int _{\Omega } d \omega
 <br clear=all>
 
 
-`2025-08-23 T0900Z`   
+`2025-08-23 T15-00Z`   
 <img src=https://i.ytimg.com/vi/7snVVx5RmM8/hqdefault.jpg height=100 align=left> [!yt @AIShifu](https://www.youtube.com/watch?v=7snVVx5RmM8&list=UUiC5f73gnG-kWuI9WR-YGUw&index=1)  
  Anime characters brought to Real Life by AI
 <br clear=all>
 
-`2025-08-23 T0850Z`  
+`2025-08-23 T14-50Z`  
 <img src=https://i.ytimg.com/vi/uXciYRNYwKI/hqdefault.jpg height=100 align=left> [!yt @AnimeKIFusion](https://www.youtube.com/watch?v=uXciYRNYwKI&list=UULFkGmrLRbXTDMnDKttMhG9mg&index=1)   
 AI realistic Digimon
 <br clear=all>
 
-`2025-08-23 T0633Z` `2025-08-23 T0634Z`    
+`2025-08-23 T12-29Z` `2025-08-23 T12-34Z`    
 To check later: **[svg](https://duckduckgo.com/?q=animated+svg&ia=web)** animation.   
 For example: [@svgator](https://www.svgator.com/blog/cool-svg-animation-examples-to-inspire/#simple-svg-animation-examples)
 
 
-`2025-08-23 T0723Z` `2025-08-23 T0740Z`    
+`2025-08-23 T13-23Z` `2025-08-23 T13-40Z`    
 WinSys issue: Getting Original Windows [Emoji Font](https://github.com/jjjuk/emoji-win?tab=readme-ov-file#-getting-original-windows-emoji-font-optional) from [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) ISO.
 <!--[Restore Default Fonts](https://woshub.com/how-to-restore-default-fonts-in-windows-8-1/
 )-->
