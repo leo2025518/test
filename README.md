@@ -29,10 +29,8 @@ Typesetting via [Github](https://gist.github.com/jonschlinkert/5854601) style [M
 
 [<img height=50 align=top src="https://pbs.twimg.com/profile_images/1627039424470196224/_IJn4HMW_bigger.jpg">](https://xcancel.com/tiyoura_tiyomi) 
 [<img height=100 src="https://i.ytimg.com/vi/26XoN5nK5-M/hqdefault.jpg">](https://www.youtube.com/watch?v=26XoN5nK5-M&list=PLvD6iBikOxV2QO5wmxiJqG24f8TXwbNCi)
-[<img height=50 align=top src="https://yt3.ggpht.com/KrBEmrDqYuT7faVzrJ43vkeB3LFzzOI5-JNc7gMeDMjdL2284jMzF4b4rCYt_OwncEIMEdCwWKM=s88-c-k-c0x00ffffff-no-rj
-">](https://xcancel.com/tiyoura_tiyomi) 
+[<img height=50 align=top src="https://yt3.googleusercontent.com/KrBEmrDqYuT7faVzrJ43vkeB3LFzzOI5-JNc7gMeDMjdL2284jMzF4b4rCYt_OwncEIMEdCwWKM=s160-c-k-c0x00ffffff-no-rj">](https://xcancel.com/tiyoura_tiyomi) 
 [<img height=100 src="https://i.ytimg.com/vi/RHn_80-4qpw/hqdefault.jpg">](https://www.youtube.com/watch?v=RHn_80-4qpw&list=UULPeC7KdN7PXits1YItdIqkiQ)
-
 
 [<img height=50 align=top src="https://pbs.twimg.com/profile_images/1933541073902841864/a3MXW9s7_bigger.jpg">](https://xcancel.com/_YuNiofficial_) [<img height=100 src="https://i.ytimg.com/vi/GdAhDVOYUmY/hqdefault.jpg">](https://www.youtube.com/watch?v=GdAhDVOYUmY&list=PLjGAXih5gQmHavTwLCBjCJRCi-a6Z4TG_)
 [<img height=50 align=top src="https://pbs.twimg.com/profile_images/1774521397173448704/4538sb4__bigger.jpg">](https://xcancel.com/inugamikorone/) [<img height=100 src="https://i.ytimg.com/vi/JawoCT3nDQ0/hqdefault.jpg">](https://www.youtube.com/watch?v=JawoCT3nDQ0&list=PLI3I4eCwIlMiUDPebeFM5efCZQ26nKMEE)
