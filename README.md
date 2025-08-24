@@ -13,7 +13,6 @@ Custom [`product.json`](https://github.com/OliverKeefe/vscode-extensions-in-vsco
 
 [<img height=100 align=left hspace=15 src=https://i.ytimg.com/vi/suAkMeWJ1yE/hqdefault.jpg>](https://www.youtube.com/watch?v=suAkMeWJ1yE&list=UULPs5Y5_7XK8HLDX0SLNwkd3w "Getting started with Jupyter notebooks in VSCode")
 
-
 VSCode [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).  
 
 　[Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) Python.  
@@ -32,7 +31,7 @@ Typesetting via [Github](https://gist.github.com/jonschlinkert/5854601) style [M
 [<img height=100 src="https://pbs.twimg.com/media/GzIQ4v4awAAORFD.jpg?name=orig">](https://xcancel.com/pipkinpippa/status/1959647374227444163)
 <ruby><img height=50 src=https://pbs.twimg.com/profile_images/1953920118158696448/59Mh1xh9_bigger.jpg><rt><img height=50 src=https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png></rt></ruby>
 [<img height=100 src="https://pbs.twimg.com/media/GzI9vkrWYAAZLTm.jpg?name=small&format=webp">](https://xcancel.com/busujimabibi/status/1959696680829260195)
-
+[<img height=50 align=top src="https://pbs.twimg.com/profile_images/1933541073902841864/a3MXW9s7_bigger.jpg">](https://xcancel.com/_YuNiofficial_) [<img height=100 src="https://i.ytimg.com/vi/GdAhDVOYUmY/hqdefault.jpg">](https://www.youtube.com/watch?v=GdAhDVOYUmY&list=PLjGAXih5gQmHavTwLCBjCJRCi-a6Z4TG_)
 
 `2025-08-23 T12-33Z` `2025-08-23 T13-28Z`   
 
